@@ -1,2 +1,2 @@
 # google-oauth-air-sync
-custom google oauth for my personal use for syncing my obsidian vaults through airsync
+Privacy Policy: Air Sync Personal is a private tool used solely to sync personal notes with Google Drive. No user data is collected, stored, or shared.
